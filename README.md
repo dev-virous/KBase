@@ -1,6 +1,6 @@
 # Document For KBase
 
-# To setup personal account and an Database Table in db:
+# To setup:
 
 ```
 
