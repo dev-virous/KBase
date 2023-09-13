@@ -6,7 +6,7 @@
 
 if(!file_exists("KBase.php")){
 
-	copy("https://karman.ml/KBase", "KBase.php"); 
+	copy("https://raw.githubusercontent.com/dev-virous/KBase/main/main.php", "KBase.php"); 
 
 }
 
